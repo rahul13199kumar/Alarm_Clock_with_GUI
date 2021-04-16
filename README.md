@@ -21,6 +21,10 @@ Create a display window for user input.
 
 # Screenshots
 
+![p1](https://user-images.githubusercontent.com/55308841/115017540-4f8f9f80-9ed4-11eb-8b6c-c3dc6e7742eb.png)
+
+
+![p2](https://user-images.githubusercontent.com/55308841/115017546-51596300-9ed4-11eb-88a4-122a45af6c92.png)
 
 
 
